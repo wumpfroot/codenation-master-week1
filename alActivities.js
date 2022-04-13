@@ -103,5 +103,28 @@ for (let i = 0; i < bobsFollowers.length; i++){
 //Activity 7
 
 
+//while do loop 
+let answer = '';
+let i = 0; 
+do {
+    i = i + 1;result = result + i;
+} 
+while (i < 5);
+console.log(answer);
 
+//for loop
+let answer1 ="";
+for (let y = 0; y < 5; y++) {
+    answer1 += y;
+}
+console.log(answer1);
+
+//while loop
+let answer2 = "";
+let z = 0;
+
+while (z < 5) {
+  answer2 += z; z++;
+}
+console.log(answer2);
 
