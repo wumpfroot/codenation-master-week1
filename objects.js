@@ -34,6 +34,7 @@ let pet = {
 
 
 console.log(pet.drink())
+console.log(pet.eat())
 
 
 //Activity 3
